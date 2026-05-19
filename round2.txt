@@ -1,11 +1,11 @@
 س: ما هي عاصمة الأردن؟
-صورة: images/gas.png
+صورة: images/gas.jpg
 ج: عمان
 
 س: ما هي عاصمة الصين ؟
-صورة: images/nopark.png
+صورة: images/nopark.jpg
 ج: بكين
 
 س: من هو مؤلف كتاب الجمهورية ؟
-صورة: images/nohonk.png
+صورة: images/nohonk.jpg
 ج: افلاطون
